@@ -6,6 +6,6 @@
 1. Prax
 2. Rias
 3. Akeno
-* Pawn
-* King
-* Queen
+*   Pawn
+*   King
+*   Queen
